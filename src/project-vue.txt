@@ -3,3 +3,5 @@ Project Install:
 ** cd project-vue
 ** npm run serve
 --------------------------------------------------------
+Bootstrap Navbar Setup:
+--------------------------------------------------
