@@ -1,0 +1,5 @@
+Project Install:
+** vue create project-vue (router, vuex)
+** cd project-vue
+** npm run serve
+--------------------------------------------------------
