@@ -5,3 +5,9 @@ Project Install:
 --------------------------------------------------------
 Bootstrap Navbar Setup:
 --------------------------------------------------
+Routes Link Setup:
+** router/index.js**
+** views/AddExpense.vue**
+** viewa/ManageExpense.vue**
+** App.vue**
+------------------------------------------------------------
